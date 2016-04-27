@@ -1,0 +1,5 @@
+web:
+  build: .
+  volumes:
+    - .:/go/src/github.com/NOX73/tech-ops-challenge
+    - ~/.bash_history:/root/.bash_history

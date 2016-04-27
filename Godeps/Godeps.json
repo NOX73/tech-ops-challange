@@ -1,0 +1,29 @@
+{
+	"ImportPath": "github.com/NOX73/tech-ops-challenge",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v62",
+	"Deps": [
+		{
+			"ImportPath": "github.com/abiosoft/ishell",
+			"Rev": "fb8c158a6681dcda157e2bdbe8fe7b0b419c7cbb"
+		},
+		{
+			"ImportPath": "github.com/chzyer/readline/runes",
+			"Comment": "1.2-28-gdc5da28",
+			"Rev": "dc5da28fbf5287157fcd4719c794b59cd8852115"
+		},
+		{
+			"ImportPath": "github.com/flynn/go-shlex",
+			"Rev": "3f9db97f856818214da2e1057f8ad84803971cff"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/ssh/terminal",
+			"Rev": "285fb2ed20d1dc450fc743a1b3ff7c36bef372b9"
+		},
+		{
+			"ImportPath": "gopkg.in/readline.v1",
+			"Comment": "1.2",
+			"Rev": "14e9df7f3c68bca64f111bab38196975d4696e2f"
+		}
+	]
+}
